@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Application database
+instance/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
